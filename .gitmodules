@@ -9,4 +9,5 @@
 	url = https://github.com/xcconfigs/xcconfigs.git
 [submodule "Carthage/Checkouts/ReactiveSwift"]
 	path = Carthage/Checkouts/ReactiveSwift
-url=https://github.com/yyResearch/ReactiveSwift.git
+        url=https://github.com/yyResearch/ReactiveSwift.git
+        branch = deployment_target_ios11
